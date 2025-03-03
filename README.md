@@ -12,7 +12,7 @@ and thus the original license is included in [LICENSE.matlab](LICENSE.matlab).
 ## Installation
 
 ```
-pip install https://github.com/wavesgroup/ssgw
+pip install git+https://github.com/wavesgroup/ssgw
 ```
 
 ## Usage
